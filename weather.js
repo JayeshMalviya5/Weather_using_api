@@ -63,7 +63,7 @@ function getweatherdata() {
   });
 }
 function showWeatherData(data) {
-
+console.log(data)
 
   let {humidity, pressure, sunrise, sunset, wind_speed} = data.current;
 
