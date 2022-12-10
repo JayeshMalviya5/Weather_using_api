@@ -114,7 +114,7 @@ body {
 
 .weather-forecast .weather-forecast-item {
   background-color: black;
-  opacity: 100%;
+  opacity: 80%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -135,7 +135,7 @@ body {
   font-weight: 100;
 }
 
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 900) {
   .future-forecast{
     justify-content: start;
     align-items: none;
