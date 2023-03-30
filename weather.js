@@ -113,3 +113,4 @@ console.log(data)
 
   weatherForecastE1.innerHTML = otherDayForecast;
 }
+// 
